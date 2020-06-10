@@ -1,9 +1,5 @@
 # Upload
 
-[![Build Status](https://img.shields.io/travis/brandonsavage/Upload.svg?style=flat-square)](https://travis-ci.org/brandonsavage/Upload)
-[![Latest Version](https://img.shields.io/github/release/brandonsavage/Upload.svg?style=flat-square)](https://github.com/brandonsavage/Upload/releases)
-[![Total Downloads](https://img.shields.io/packagist/dt/codeguy/upload.svg?style=flat-square)](https://packagist.org/packages/codeguy/upload)
-
 This component simplifies file validation and uploading.
 
 ## Usage
@@ -72,12 +68,12 @@ curl -s https://getcomposer.org/installer | php
 Require the package with composer:
 
 ```
-php composer.phar require codeguy/upload
+php composer.phar require jingplus/upload
 ```
 
 ## Author
 
-[Josh Lockhart](https://github.com/codeguy)
+[JingwenTian](https://github.com/JingwenTian)
 
 ## License
 
